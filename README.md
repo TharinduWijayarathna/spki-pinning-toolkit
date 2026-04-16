@@ -41,7 +41,7 @@ Traditional certificate pinning breaks when certificates rotate (e.g., AWS ACM a
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/spki-pinning-toolkit.git
+git clone https://github.com/TharinduWijayarathna/spki-pinning-toolkit.git
 cd spki-pinning-toolkit
 ```
 
